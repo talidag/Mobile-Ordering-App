@@ -1,6 +1,6 @@
 ### Mobile Ordering App 🍽️
 
-[Live Demo](https://talidag.github.io/mobile-ordering-app/)
+[Live Demo](https://orderapp-talidag.netlify.app)
 
 My first solo project built to go deeper into the key concepts I learned from:
 
